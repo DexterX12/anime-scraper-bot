@@ -23,7 +23,7 @@ This quick-guide assumes you already have knowledge on how to create and set a b
 4. Create the `ssl` directory (Where SSL certificates will be stored)
 5. Both `app.js` and `./commands/watch.js` have a placeholder for the server's URL. Change it for whatever you'd want.
 6. After putting your bot's token and client ID, run `register.js` once for registering the commands into your bot.
-7. Start `web.js` and `bot.js`
+7. Start `app.js` and `bot.js`
 8. Done.
 
 ### Possible issues
