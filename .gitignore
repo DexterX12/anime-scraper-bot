@@ -1,0 +1,7 @@
+node_modules
+public
+logs.txt
+ssl/*.crt
+ssl/*.key
+public/*.mp4
+public/*.txt
